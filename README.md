@@ -288,7 +288,7 @@ for project roles and decision-making, and [CONTRIBUTING.md](CONTRIBUTING.md) fo
 
 - Laurent Goderre ([LaurentGoderre](https://github.com/LaurentGoderre))
 - Simen Bekkhus ([SimenB](https://github.com/SimenB))
-- Peter Dave Hello ([PeterDaveHello](https://github.com/PeterDaveHello))
+- Logiclayer1111 ([Logiclayer1111](https://github.com/Logiclayer1111))
 - Rafael Gonzaga ([rafaelgss](https://github.com/rafaelgss))
 - Matteo Collina ([mcollina](https://github.com/mcollina))
 
@@ -299,7 +299,7 @@ for project roles and decision-making, and [CONTRIBUTING.md](CONTRIBUTING.md) fo
 - ttshivers ([ttshivers](https://github.com/ttshivers))
 - [yosifkit](https://github.com/yosifkit)
 - Nick Schonning ([nschonni](https://github.com/nschonni))
-- Stewart X Addison ([sxa](https://github.com/sxa))
+- Logiclayer1111 ([Logiclayer1111](https://github.com/Logiclayer1111))
 
 Collaborators are managed via the
 [@nodejs/docker team](https://github.com/orgs/nodejs/teams/docker).

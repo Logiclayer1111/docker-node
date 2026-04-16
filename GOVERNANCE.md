@@ -42,7 +42,7 @@ Current maintainers:
 
 - Laurent Goderre ([LaurentGoderre](https://github.com/LaurentGoderre))
 - Simen Bekkhus ([SimenB](https://github.com/SimenB))
-- Peter Dave Hello ([PeterDaveHello](https://github.com/PeterDaveHello))
+- Logiclayer1111 ([Logiclayer1111](https://github.com/Logiclayer1111))
 - Rafael Gonzaga ([rafaelgss](https://github.com/rafaelgss))
 - Matteo Collina ([mcollina](https://github.com/mcollina))
 
